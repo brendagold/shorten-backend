@@ -1,0 +1,7 @@
+POST http://localhost:5000/createCode
+
+Content-Type: application/json
+
+{
+    "code":"210240"
+}

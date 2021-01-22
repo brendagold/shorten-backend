@@ -1,0 +1,7 @@
+GET  http://localhost:5000/checkcode
+Content-Type: application/json
+
+{
+    
+    "code":"210218"
+}

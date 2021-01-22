@@ -1,0 +1,9 @@
+POST http://localhost:5000/shorten
+user_id: 5f65358c687e5904f8b09217
+Content-Type: application/json
+
+{
+    "longUrl":"https://mailchimp.com/help/customize-your-footer-content"
+}
+
+
